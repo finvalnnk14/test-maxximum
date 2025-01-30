@@ -76,6 +76,7 @@ a {
             font-size: 60px; /* Ukuran teks 40 cm */
              margin-left: -5cm;
              margin-top: -4cm;
+             font-family: 'Space Grotesk', sans-serif;
         }
 .illustration {
   margin-top: -5cm; /* Sesuaikan sesuai kebutuhan */
