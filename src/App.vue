@@ -17,6 +17,7 @@
   <h1>Navigating the <br /> digital landscape <br /> for success </h1>
   <img src="/src/assets/illustration.jpg" alt="Digital Success" className="illustration" width="500">
   <div class="consultation-box">Book a consultation</div>
+   
 </template>
 
 <script>
@@ -31,7 +32,8 @@ export default {
         { name: "Blog", link: "#blog" }
       ]
     };
-  }
+  },
+  
 };
 </script>
 
